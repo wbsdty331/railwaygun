@@ -40,7 +40,7 @@
 
 瞬间，几百个窗口同时出现。只见每一个窗口上都重复着同样的一段文字。
 
-> Pinging moegirlvarnish.gov (42.159.202.230)
+> Pinging moegirlvarnish.gov
 
 > Request timed out.
 
